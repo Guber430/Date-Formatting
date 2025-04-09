@@ -4,6 +4,14 @@ This Python program is designed to **standardize date inputs** from multiple for
 
 ---
 
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Key Features](#key-features)
+- [Technologies Used](#technologies-used)
+- [How to Use](#how-to-use)
+
+---
+
 ## Project Overview
 
 The program:
